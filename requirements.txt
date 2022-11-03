@@ -1,0 +1,4 @@
+emoji
+pyTelegramBotAPI
+flask
+psycopg2
